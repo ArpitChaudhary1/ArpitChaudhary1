@@ -1,22 +1,32 @@
-## Hi there 👋 I am Arpit Chaudhary
-<img src="https://raw.githubusercontent.com/username/your-repo/main/assets/divider.png" width="100%" />
-## 💫About Me:
-<img src="https://raw.githubusercontent.com/username/your-repo/main/assets/divider.png" width="100%" />
-🎓 I am a second-year engineering student at KIET GROUP OF INSTITUTIONS**.
-🌱 I’m currently learning Machine Learning.
-🎓 Seeking an internship to apply and enhance my skills.
-🎓 I'm skilled in Python, JAVA, C, Pandas, Numpy, Matplotlib, Seaborn
-<img src="https://raw.githubusercontent.com/username/your-repo/main/assets/divider.png" width="100%" />
+<h1 align="center">Hi there 👋 I am Arpit Chaudhary</h1>
 
+## 👋 About Me:
+
+🎓 I am a second-year engineering student at **KIET GROUP OF INSTITUTIONS**.  
+🌱 Currently learning **Machine Learning**.  
+🎯 Seeking an internship to apply and enhance my skills.  
+💻 Skilled in **Python, JAVA, C, Pandas, Numpy, Matplotlib, Seaborn**
+
+---
 
 ## 🌐 Socials
-<img src="https://raw.githubusercontent.com/username/your-repo/main/assets/divider.png" width="100%" />
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arpitchaudhary700/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chaudharyarpit388@gmail.com
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/@_Arpit_700)
+
+<p align="left">
+  <a href="https://linkedin.com/in/arpitchaudhary700" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chaudharyarpit388@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/@_Arpit_700" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 💻 Tech Stack
-<img src="https://raw.githubusercontent.com/username/your-repo/main/assets/divider.png" width="100%" />
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
