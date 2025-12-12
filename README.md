@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/arpitchaudhary700" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:chaudharyarpit388@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=chaudharyarpit388@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/@_Arpit_700" target="_blank">
