@@ -3,9 +3,8 @@
 ## 👋 About Me:
 
 🎓 I am a Third-year engineering student at **KIET GROUP OF INSTITUTIONS**.  
-🌱 Currently learning **Machine Learning**.  
-🎯 Seeking an internship to apply and enhance my skills.  
-💻 Skilled in **Python, JAVA, C, Pandas, Numpy, Matplotlib, Seaborn**
+🌱 Currently learning **Machine Learning**.    
+💻 Tech Stack **Python, JAVA, C, Pandas, Numpy, Matplotlib, Seaborn**
 
 ---
 
