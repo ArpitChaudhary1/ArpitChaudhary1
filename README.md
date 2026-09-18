@@ -144,5 +144,18 @@ A full-stack blogging platform focused on building a scalable backend with async
 ---
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ArpitChaudhary1/ArpitChaudhary1/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/ArpitChaudhary1/ArpitChaudhary1/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/ArpitChaudhary1/ArpitChaudhary1/output/github-snake.svg"
+         alt="GitHub Contribution Snake">
+  </picture>
+</p>
+
+---
+
+<p align="center">
   <i>Building. Learning. Experimenting. 🚀</i>
 </p>
