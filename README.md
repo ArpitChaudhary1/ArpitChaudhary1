@@ -45,6 +45,7 @@ I enjoy turning ideas into working projects — from machine learning models and
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
 ### Data & Backend
