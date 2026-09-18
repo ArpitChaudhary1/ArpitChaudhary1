@@ -119,14 +119,6 @@ A full-stack blogging platform focused on building a scalable backend with async
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChaudhary1&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
