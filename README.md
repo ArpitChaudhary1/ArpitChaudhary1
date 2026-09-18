@@ -68,45 +68,53 @@ I enjoy turning ideas into working projects — from machine learning models and
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
+## 🚀 Featured Projects
 
-## 🔥 Featured Projects
+### 🤖 AI Career Guidance Assistant
 
-### 🤖 AI-Powered Calorie Counter
+**GenAI • Backend • REST APIs • PostgreSQL**
 
-**Computer Vision + Web Scraping**
+A collaborative AI-powered career guidance platform designed to provide personalized career recommendations and real-time interaction.
 
-A computer vision application that uses **MobileNetV2** to identify fruits from images and retrieves nutritional information using web scraping.
+* Built RESTful APIs using **FastAPI and Pydantic** for real-time chat synchronization.
+* Integrated **PostgreSQL with SQLAlchemy 2.0** to bridge application data with the recommendation engine.
+* Implemented **request-scoped database sessions and dependency caching** to reduce redundant database operations and improve API performance.
 
-**Tech:** TensorFlow • OpenCV • MobileNetV2 • BeautifulSoup
+**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy 2.0 • Alembic • Pydantic • REST APIs
 
-🔗 [View Project](https://github.com/ArpitChaudhary1/Calorie-Counter)
-
----
-
-### 💳 Credit Risk Scoring System
-
-**Machine Learning + Financial Risk Analysis**
-
-An ML-based credit risk system built using **250K+ Lending Club records** to predict loan default probability.
-
-Implemented multiple models including **Logistic Regression, Decision Tree, Random Forest and XGBoost**, with a focus on identifying high-risk borrowers under class imbalance.
-
-**Tech:** Python • XGBoost • Random Forest • Scikit-learn • Pandas • NumPy
-
-🔗 [View Project](https://github.com/ArpitChaudhary1/credit-risk-scoring)
+🔗 [View Project](https://github.com/ArpitChaudhary1/AI-Career-Guidance-Assistant)
 
 ---
 
-### 🎬 Movie Recommendation System
+### 🧠 YouTube QA Chatbot
 
-**Recommendation Systems + Collaborative Filtering**
+**Generative AI • RAG • LLMs • Semantic Search**
 
-A movie recommendation engine built using the **MovieLens 100K dataset**, working with a sparse user-movie interaction matrix and cosine similarity.
+An end-to-end **Retrieval-Augmented Generation (RAG)** application that allows users to ask questions about YouTube video transcripts and receive context-grounded answers.
 
-**Tech:** Python • Pandas • Scikit-learn • Cosine Similarity
+* Built a RAG pipeline using **LangChain, ChromaDB, and HuggingFace BGE embeddings** for semantic retrieval.
+* Implemented **MMR-based retrieval** to reduce redundant context and improve relevant document selection.
+* Integrated a **120B-parameter LLM through the HuggingFace Inference API** with prompt constraints designed to keep responses grounded in retrieved transcript context.
 
-🔗 [View Project](https://github.com/ArpitChaudhary1/Movie-recommendation-system)
+**Tech:** Python • LangChain • ChromaDB • HuggingFace • RAG • LLMs
+
+🔗 [View Project](https://github.com/ArpitChaudhary1/YouTube-QA-Chatbot)
+
+---
+
+### ✍️ Blogging Website
+
+**Backend Development • Authentication • PostgreSQL**
+
+A full-stack blogging platform focused on building a scalable backend with asynchronous database operations, authentication, and efficient content delivery.
+
+* Implemented **asynchronous database operations** using FastAPI, SQLAlchemy 2.0, and PostgreSQL.
+* Added **JWT authentication** and secure password handling with **Argon2**.
+* Implemented image processing with **Pillow** and paginated Jinja2 templates for efficient content and feed rendering.
+
+**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy • Alembic • Jinja2 • JWT • Argon2 • Pillow
+
+🔗 [View Project](https://github.com/ArpitChaudhary1/Blogging-Website)
 
 ---
 
