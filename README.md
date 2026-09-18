@@ -119,11 +119,10 @@ A full-stack blogging platform focused on building a scalable backend with async
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitChaudhary1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitChaudhary1&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitChaudhary1&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
